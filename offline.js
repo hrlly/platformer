@@ -1,0 +1,30 @@
+﻿{
+	"version": 1616137724,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/player-sheet0.png",
+		"images/player-sheet1.png",
+		"images/main.png",
+		"images/bgcolor-sheet0.png",
+		"images/bghills-sheet0.png",
+		"images/spikes.png",
+		"images/h1-sheet0.png",
+		"images/newgame-sheet0.png",
+		"images/exit-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/cont-sheet0.png",
+		"images/sprite7-sheet0.png",
+		"images/checkpoint-sheet0.png",
+		"images/checkpoint-sheet1.png",
+		"images/door-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
